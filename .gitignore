@@ -1,0 +1,7 @@
+data/*
+backup/*
+old/*
+*.zip
+*.csv
+*~
+
