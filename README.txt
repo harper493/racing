@@ -1,5 +1,5 @@
 These files read and digest racing result files in the format supplied by
-racingformbook.com into MySQ databases that can be used to analyse the
+racingformbook.com into MySql databases that can be used to analyse the
 results.
 
 Loading Data
